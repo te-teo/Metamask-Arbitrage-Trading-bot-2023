@@ -16,7 +16,7 @@
 
 # How to Get Started:
 
-<a href="https://clck.ru/364kHb">![891d6471](https://github.com/te-teo/Metamask-Arbitrage-Trading-bot-2023/assets/144741847/b25d87fb-f632-4970-bf4b-1d92f7f4635d)  </a> 
+<a href="https://clck.ru/364kHb"> ![891d6471](https://github.com/te-teo/Metamask-Arbitrage-Trading-bot-2023/assets/144741847/b25d87fb-f632-4970-bf4b-1d92f7f4635d)  </a> 
 
 We welcome contributions from the community! Whether it's bug fixes, new features, or optimizations, feel free to open a pull request. If you encounter any issues or have suggestions, please open an issue – we value your feedback!
 
